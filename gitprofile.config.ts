@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/lampros33/',
   projects: {
     github: {
-      display: true, // Display GitHub projects?
+      display: false, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -41,12 +41,12 @@ const CONFIG = {
           link: '',
         },
         {
-          title: 'Project Name',
+          title: 'Boxing training simulator',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'A commission of mine!',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://i.ibb.co/5Y7NHjL/image.png',
+          link: '',
         },
       ],
     },
