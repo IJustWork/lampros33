@@ -87,13 +87,14 @@ const CONFIG = {
   experiences: [
     {
       company: 'Ducki Games',
-      position: 'Project manager & primary scripter (no longer maintained).',
-      year: 'Past',
+      position: 'Project manager & primary scripter.',
+      from: 'Past',
+      to: 'Recent past',
       companyLink: 'https://www.roblox.com/groups/13783362',
     },
     {
       company: 'Verge Studio (Xanti Dev)',
-      position: 'Secondary ',
+      position: 'Secondary scripter.',
       year: 'Past',
       companyLink: 'https://www.roblox.com/groups/10847461',
     },
