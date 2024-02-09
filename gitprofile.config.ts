@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'TBM',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'The bees mountian (TBM) is a personal project of mine to improve my skills and help me make my future games as optimized as possible.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://i.ibb.co/kJrFJZh/Screenshot-22.jpg',
+          link: '',
         },
         {
           title: 'Project Name',
@@ -52,31 +52,31 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of lampros33',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    // linkedin: 'ariful-alam',
+    // twitter: 'arif_szn',
+    // mastodon: 'arifszn@mastodon.social',
+    // facebook: '',
+    // instagram: '',
+    // youtube: '', // example: 'pewdiepie'
+    // dribbble: '',
+    // behance: '',
+    // medium: 'arifszn',
+    // dev: 'arifszn',
+    // stackoverflow: '', // example: '1/jeff-atwood'
+    // skype: '',
+    // telegram: '',
+    // website: 'https://www.arifszn.com',
+    // phone: '',
+    // email: 'arifulalamszn@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
