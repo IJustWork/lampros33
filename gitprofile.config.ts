@@ -95,7 +95,8 @@ const CONFIG = {
     {
       company: 'Verge Studio (Xanti Dev)',
       position: 'Secondary scripter.',
-      year: 'Past',
+      from: 'Unknown Data',
+      to: '2022',
       companyLink: 'https://www.roblox.com/groups/10847461',
     },
   ],
