@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of lampros33',
-    description: '',
+    description: 'https://avatars.githubusercontent.com/u/129218181?v=4',
     imageURL: '',
   },
   social: {
